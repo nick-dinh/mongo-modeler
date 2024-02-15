@@ -1,4 +1,9 @@
 # Mongo modeler
+![Contributors](https://img.shields.io/github/contributors/Lemoncode/mongo-modeler)
+![Forks](https://img.shields.io/github/forks/Lemoncode/mongo-modeler)
+![Stars](https://img.shields.io/github/stars/Lemoncode/mongo-modeler)
+![Licence](https://img.shields.io/github/license/Lemoncode/mongo-modeler)
+![Issues](https://img.shields.io/github/issues/Lemoncode/mongo-modeler)
 
 ## Project
 
