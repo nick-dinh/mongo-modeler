@@ -29,17 +29,18 @@ We are working to release a 0.9 version in the coming months.
 ## Installation
 Clone this repository:
 ```sh
-$ git clone https://github.com/Lemoncode/mongo-modeler
+git clone https://github.com/Lemoncode/mongo-modeler
 ```
 Then install dependencies with:
 ```sh
-$ cd mongo-modeler
-$ npm install
+cd mongo-modeler
+npm install
 ```
 And run with:
 ```sh
-$ npm run dev
+npm run dev
 ```
+Sample models for testing can be found [HERE](https://github.com/Lemoncode/mongo-modeler/tree/main/db-examples).
 
 ## Contributing
 
